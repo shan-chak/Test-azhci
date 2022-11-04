@@ -36,7 +36,7 @@ Figure 1. HPE ProLiant DL Server VCF Solution Overview
 
 * [HPE Automation plugins v2.8.2 for VCF on HPE ProLiant DL]( https://hpe.sharepoint.com/teams/HPE_Automation_Kit/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FHPE%5FAutomation%5FKit%2FShared%20Documents%2FHPE%20SAT%20v2%2E8%2FPlugins%20for%20VCF%20on%20HPE%20ProLiant%20DL%2F2%2E8%2E2&p=true&originalPath=aHR0cHM6Ly9ocGUuc2hhcmVwb2ludC5jb20vOmY6L3QvSFBFX0F1dG9tYXRpb25fS2l0L0VvRVpKdDBTX1pKRHFKTFp1eGF2YzRRQkdPdlhUajVUWmJaM0NzZzNIaDdYSnc%5FcnRpbWU9QVgxUDVrdVoyVWc)
 
-* [HPE SSET ( Solutions Sales Enablement Tool )](https://sset.ext.hpe.com/UsherAPI/index-new.html)
+* [SSHANKAR CHAKRABORTY](https://sset.ext.hpe.com/UsherAPI/index-new.html)
 
 
 
